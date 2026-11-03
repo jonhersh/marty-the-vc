@@ -1,4 +1,4 @@
-<p align="center"><img src="marty.png" alt="Marty Kessler, GP of Kessler Ventures, holding an oat-milk cortado next to a speech bubble that says 'Cute. Pass.'" width="420"></p>
+<p align="center"><img src="marty.png" alt="Marty in a fleece vest and sunglasses, sitting in an ice bath and inspecting a gold unicorn figurine, next to a laptop that says 'UNICORNS ONLY'" width="720"></p>
 
 # Marty the VC 🦈☕
 
