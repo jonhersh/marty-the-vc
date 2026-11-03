@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+  <style>
+    text { font-family: "Helvetica Neue", Helvetica, Arial, "DejaVu Sans", sans-serif; }
+  </style>
+  <rect width="1000" height="1000" fill="#F4EFE6"/>
+  <circle cx="500" cy="500" r="380" fill="#E8D9BF"/>
+  <g transform="rotate(-14 185 200)" opacity="0.9">
+    <rect x="80" y="150" width="210" height="96" rx="10" fill="none" stroke="#C0392B" stroke-width="9"/>
+    <text x="185" y="222" text-anchor="middle" font-size="68" font-weight="800" fill="#C0392B" letter-spacing="6">PASS</text>
+  </g>
+  <path d="M 600 300 L 660 225 L 700 232 Z" fill="#fff" stroke="#1F2A44" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="610" y="95" width="350" height="140" rx="32" fill="#fff" stroke="#1F2A44" stroke-width="4"/>
+  <rect x="640" y="222" width="70" height="12" fill="#fff"/>
+  <text x="785" y="155" text-anchor="middle" font-size="40" font-weight="800" fill="#1F2A44">Cute. Pass.</text>
+  <text x="785" y="195" text-anchor="middle" font-size="19" font-style="italic" fill="#1F2A44">it's three API calls in a trench coat</text>
+  <path d="M 200 1000 C 215 815 320 740 500 730 C 680 740 785 815 800 1000 Z" fill="#BCD2E8"/>
+  <path d="M 448 630 L 448 738 Q 500 762 552 738 L 552 630 Z" fill="#E2B08C"/>
+  <path d="M 440 722 L 500 772 L 468 800 L 418 742 Z" fill="#DCE8F4" stroke="#9DB6CF" stroke-width="3"/>
+  <path d="M 560 722 L 500 772 L 532 800 L 582 742 Z" fill="#DCE8F4" stroke="#9DB6CF" stroke-width="3"/>
+  <path d="M 200 1000 C 215 815 315 748 425 732 L 468 800 L 478 1000 Z" fill="#1F2A44"/>
+  <path d="M 800 1000 C 785 815 685 748 575 732 L 532 800 L 522 1000 Z" fill="#1F2A44"/>
+  <line x1="468" y1="800" x2="478" y2="1000" stroke="#C9CED8" stroke-width="3"/>
+  <line x1="532" y1="800" x2="522" y2="1000" stroke="#C9CED8" stroke-width="3"/>
+  <rect x="300" y="840" width="76" height="36" rx="4" fill="#F4EFE6"/>
+  <text x="338" y="866" text-anchor="middle" font-size="22" font-weight="800" fill="#1F2A44">KV</text>
+  <ellipse cx="352" cy="495" rx="24" ry="40" fill="#E2B08C"/>
+  <ellipse cx="648" cy="495" rx="24" ry="40" fill="#E2B08C"/>
+  <rect x="336" y="492" width="16" height="46" rx="8" fill="#fff" stroke="#BFBFBF" stroke-width="2"/>
+  <rect x="648" y="492" width="16" height="46" rx="8" fill="#fff" stroke="#BFBFBF" stroke-width="2"/>
+  <ellipse cx="500" cy="475" rx="150" ry="178" fill="#ECC2A0"/>
+  <path d="M 352 440 C 335 305 425 262 515 268 C 618 274 676 335 650 440 C 632 372 565 340 488 350 C 420 360 380 392 352 440 Z" fill="#8C929C"/>
+  <path d="M 352 440 C 360 380 420 340 520 345 C 470 362 440 392 430 420 C 410 400 380 410 352 440 Z" fill="#7A8089"/>
+  <path d="M 380 395 C 410 360 470 340 540 342" stroke="#A9AEB7" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M 560 350 C 600 360 630 385 646 420" stroke="#A9AEB7" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M 395 420 C 420 385 470 365 520 360" stroke="#6E747D" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <ellipse cx="445" cy="312" rx="46" ry="24" fill="#141414"/>
+  <ellipse cx="555" cy="312" rx="46" ry="24" fill="#141414"/>
+  <path d="M 488 308 Q 500 300 512 308" stroke="#141414" stroke-width="6" fill="none"/>
+  <ellipse cx="432" cy="305" rx="14" ry="6" fill="#4A4A4A"/>
+  <ellipse cx="542" cy="305" rx="14" ry="6" fill="#4A4A4A"/>
+  <path d="M 402 428 Q 438 396 476 418" stroke="#5B5F66" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M 526 444 Q 560 438 598 446" stroke="#5B5F66" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <ellipse cx="440" cy="472" rx="27" ry="13" fill="#fff"/>
+  <ellipse cx="560" cy="472" rx="27" ry="13" fill="#fff"/>
+  <circle cx="452" cy="475" r="8" fill="#2B2B2B"/>
+  <circle cx="572" cy="475" r="8" fill="#2B2B2B"/>
+  <rect x="410" y="455" width="60" height="16" fill="#ECC2A0"/>
+  <rect x="530" y="455" width="60" height="16" fill="#ECC2A0"/>
+  <line x1="412" y1="470" x2="468" y2="470" stroke="#6B4535" stroke-width="5" stroke-linecap="round"/>
+  <line x1="532" y1="470" x2="588" y2="470" stroke="#6B4535" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 502 480 Q 486 528 498 545 Q 512 552 524 541" stroke="#C48E6A" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M 452 592 Q 500 604 552 574" stroke="#7A3E2E" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <path d="M 552 574 Q 560 568 562 560" stroke="#7A3E2E" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M 800 1000 C 790 930 760 890 720 880 L 690 905 C 730 930 750 960 760 1000 Z" fill="#1F2A44"/>
+  <rect x="655" y="742" width="84" height="16" rx="6" fill="#D9D9D9"/>
+  <path d="M 660 758 L 734 758 L 722 872 L 672 872 Z" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="2"/>
+  <rect x="664" y="795" width="66" height="36" fill="#9C6B43"/>
+  <text x="697" y="820" text-anchor="middle" font-size="18" font-weight="800" fill="#fff">OAT</text>
+  <ellipse cx="697" cy="868" rx="52" ry="30" fill="#ECC2A0"/>
+  <path d="M 652 860 Q 697 845 742 860" stroke="#C48E6A" stroke-width="3" fill="none"/>
+  <rect x="0" y="920" width="1000" height="80" fill="#1F2A44"/>
+  <text x="500" y="958" text-anchor="middle" font-size="30" font-weight="800" fill="#F4EFE6" letter-spacing="4">MARTY KESSLER, GP</text>
+  <text x="500" y="986" text-anchor="middle" font-size="17" font-style="italic" fill="#C9CED8">Kessler Ventures · "We pass on 99.6% of deals"</text>
+</svg>
